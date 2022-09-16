@@ -1,5 +1,5 @@
 <div id="header" style="font-size:35px" align="center">
-    <h3>Jack Aherne</h3>
+    <h3>Jack Aherne <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </h3>
     <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/jackaherne">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
