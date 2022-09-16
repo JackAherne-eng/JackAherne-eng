@@ -9,14 +9,14 @@
 
 ---
 ### About Me
-I am a student developer in Ireland :ireland:
+                                # I am a student in Ireland who's into trying until i succeed :ireland:
 
 ---
 ### :man_student: Education
-- South East Technological University - Bachelor of Science (Honours) Applied Computing (Cloud & Networks) (2020-2024)
+- South East Technological University - Bachelor of Science(Honors) Applied Computing (Cloud & Networks) (2020-2024)
 
 ---
-### :hammer_and_wrench: Languages & Tools
+###  Languages & Tools used
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
