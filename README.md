@@ -1,6 +1,6 @@
 <div id="header" style="font-size:35px" align="center">
     <img src="https://cdn.pixabay.com/photo/2017/01/18/10/43/banner-1989514_960_720.png">
-    <h3 position="relative" text-align="center" color="Black"> Jack Aherne </h3>
+    <h3> Jack Aherne <position="relative" text-align="center" color="Black"/h3>
     <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/jackaherne">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&theme=darcula" alt="LinkedIn Badge"/>
