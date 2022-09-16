@@ -8,14 +8,14 @@
 </div>
 
 ---
-###
+### Who am I?
 I am a student currently studying Cloud and Networks. Posting both College assignments and past time projects on Github
 ---
-### :man_student: Education
+### What are you studying?
 - South East Technological University - Bachelor of Science(Honors) Applied Computing (Cloud & Networks) (2020-2024)
 
 ---
-###  Languages & Tools used
+### What are some Languages & Tools you have used?
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
