@@ -9,7 +9,7 @@
 
 ---
 ### Who am I?
-I am a student currently studying Cloud and Networks. Posting both College assignments and past time projects on Github
+- I am a student currently studying Cloud and Networks. Posting both College assignments and past time projects on Github
 ---
 ### What are you studying?
 - South East Technological University - Bachelor of Science(Honors) Applied Computing (Cloud & Networks) (2020-2024)
