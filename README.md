@@ -1,10 +1,5 @@
-<div id="header" style="font-size:35px" align="center">
-    <style>
-    h3    {position:relative;} 
-    h3      {text-align:center;} 
-    h3      {color:Black;}
-    </style>   
-    <img src="https://cdn.pixabay.com/photo/2017/01/18/10/43/banner-1989514_960_720.png">
+<div id="header" style="font-size:35px" align="center">  
+    <img src="https://cdn.pixabay.com/photo/2017/01/18/10/43/banner-1989514_960_720.png"width="960" height="40"/>
     <h3> Jack Aherne </h3>
     <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/jackaherne">
