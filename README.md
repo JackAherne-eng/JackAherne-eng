@@ -8,6 +8,7 @@
 </div>
 
 ---
+###
 I am a student currently studying Cloud and Networks. Posting both College assignments and past time projects on Github
 ---
 ### :man_student: Education
