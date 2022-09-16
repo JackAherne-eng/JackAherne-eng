@@ -1,16 +1,14 @@
 <div id="header" style="font-size:35px" align="center">
-    <h3>Jack Aherne <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="right"/> </h3>
+    <h3>Jack Aherne</h3>
     <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/jackaherne">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&theme=darcula" alt="LinkedIn Badge"/>
         </a>
     </div>
 </div>
 
 ---
-### About Me
-# I am a student in Ireland who's into trying until i succeed :ireland:
-
+I am a student currently studying Cloud and Networks. Posting both College assignments and past time projects on Github
 ---
 ### :man_student: Education
 - South East Technological University - Bachelor of Science(Honors) Applied Computing (Cloud & Networks) (2020-2024)
@@ -35,7 +33,7 @@
 </div>
 
 ---
-### :fire: Github Stats
+Statistics
 <div id="streaks" align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=JackAherne-eng&theme=darcula&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="Streak Badge"/>
 </div>
