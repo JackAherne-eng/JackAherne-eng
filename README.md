@@ -1,19 +1,3 @@
-#### Hello there 👋
-
-
-**JackAherne-eng/JackAherne-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 About Me...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <div id="header" style="font-size:35px" align="center">
     <h3>Jack Aherne</h3>
     <div id="badges" align="center">
@@ -24,12 +8,12 @@ Here are some ideas to get you started:
 </div>
 
 ---
-### :man_technologist: About Me
+### About Me
 I am a student developer in Ireland :ireland:
 
 ---
 ### :man_student: Education
-- South East Technological University - Bachelor of Science (Honours) Applied Computing (2020-2024)
+- South East Technological University - Bachelor of Science (Honours) Applied Computing (Cloud & Networks) (2020-2024)
 
 ---
 ### :hammer_and_wrench: Languages & Tools
@@ -41,8 +25,9 @@ I am a student developer in Ireland :ireland:
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Python" alt="Python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Putty" alt="Putty" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
@@ -52,5 +37,5 @@ I am a student developer in Ireland :ireland:
 ---
 ### :fire: Github Stats
 <div id="streaks" align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Michael2150&theme=darcula&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="Streak Badge"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=JackAherne-eng&theme=darcula&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="Streak Badge"/>
 </div>
