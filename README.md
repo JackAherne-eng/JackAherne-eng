@@ -37,10 +37,12 @@
 </div>
 
 ---
-Statistics
+### Statistics
 <div id="streaks" align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=JackAherne-eng&theme=darcula&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="Streak Badge"/>
+</div>
 ---
+### Most Languages used
+<div id="Languages" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JackAherne-eng&show_icons=true&locale=en&layout=compact" alt="Language Badge"/>
-    
 </div>
