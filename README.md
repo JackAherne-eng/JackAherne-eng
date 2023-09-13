@@ -12,7 +12,8 @@
                       “Where is the ‘any’ key?” - Homer Simpson, in response to the message, “Press any key”
 ---
 ### Who am I?
-- I am a student currently studying Cloud and Networks. Posting both College assignments and past time projects on Github
+- I am a student currently studying Cloud and Networks. Posting both College assignments and past time projects on Github.
+- I have worked with Amazon Web Services during a University placement. An area that I have focused on is mostly serverless architecture a
 ---
 ### What are you studying?
 - South East Technological University - Bachelor of Science(Honors) Applied Computing (Cloud & Networks) (2020-2024)
